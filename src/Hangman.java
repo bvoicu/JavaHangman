@@ -7,6 +7,9 @@ public class Hangman {
         BuildGuess gs = new BuildGuess();
 
         System.out.println(gs.buildGuess());
+        System.out.println(gs.buildGuess());
+        System.out.println(gs.buildGuess());
+        System.out.println(gs.buildGuess());
 
 
 
